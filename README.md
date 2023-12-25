@@ -9,7 +9,7 @@ Latest update, or process that is going through
 
 # HotPlate
 
-        Hot plate project's purpose is to control the temperature of a hot plate that is used for reflow soldering of PCBs in small numbers. The application
+    Hot plate project's purpose is to control the temperature of a hot plate that is used for reflow soldering of PCBs in small numbers. The application
 will support a camera for more analysis and study of the process of soldering. The application accepts Gerber, Pick&Place, and BOM, so then the 
 user will have a full assembly guideline and also with the connected camera it's possible to confirm the quality and validity of placement and assembly.
 
