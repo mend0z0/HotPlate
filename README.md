@@ -1,51 +1,87 @@
-# Project Title
-
-A brief description of what this project does and who it's for
-
-
-## Features
-
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
-
-
-## Tech Stack
-
-**Client:** React, Redux, TailwindCSS
-
-**Server:** Node, Express
 
 ## Latest update
 
 
 ``
-The display has driven with PIC16F but not satisfying...
+Latest update, or process that is going through
 ``
 
-## Roadmap
 
-- Additional browser support
+# Project
 
-- Add more integrations
-
-
-## Documentation
-
-[Documentation](https://linktodocumentation)
+Description...
 
 
-## Authors
+## Features
 
-- [@octokatherine](https://www.github.com/octokatherine)
+- 
+- 
+- 
 
 
-## Demo
+## Tech Stack
 
-Insert gif or link to demo
+### Hardware
+
+- **MCU:**
+- **Connection:**
+- **PCB Layers:** xLayer/s (Controlled/None-controlled Impedance)
+- **CAD:** KiCAD
+
+### Firmware
+
+- **OS:**
+- **Programming Language:**
+- **IDE:**
+
+### Application
+
+- **Application:**
+
+
+
+
+
+
+
+## WBS Chart
+
+![WBS Chart](https://github.com/mend0z0/OfficeDisplay/tree/main/Document)
+
+
+## Block Diagrams
+
+[Block1](https://github.com/mend0z0/OfficeDisplay/tree/main/Document)
+
+[Block2](https://github.com/mend0z0/OfficeDisplay/tree/main/Document)
+
+[Block3](https://github.com/mend0z0/OfficeDisplay/tree/main/Document)
 
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+### Hardware
+![App Screenshot](https://github.com/mend0z0/OfficeDisplay/blob/main/Document/Screenshots/E-paper%20driver%20with%20PIC16F%20-%20Failed%20(20231010))
+
+### Application
+![App Screenshot](https://github.com/mend0z0/OfficeDisplay/blob/main/Document/Screenshots/E-paper%20driver%20with%20PIC16F%20-%20Failed%20(20231010))
+
+
+
+## Demo
+
+Insert gif or link to demo, it'll be my youtube channel
+
+## LOGO
+
+![Logo](https://github.com/mend0z0/OfficeDisplay/blob/main/LOGO.png)
+
+
+## Author
+
+- [@Siavash Taher Parvar](https://www.linkedin.com/in/mend0z0)
+
+
+## Support
+
+[Support Link](https://github.com/sponsors/mend0z0)
