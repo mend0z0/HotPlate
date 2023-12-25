@@ -1,17 +1,22 @@
 /****************************************************************************************************
 *
-*   Project Name:
-*   @Brief Description:
+*   Project Name:       _FW_HotPlate
+*   @Brief Description: This project will be used for home reflow soldering process
 *   File Status:	    DRAFT   (DRAFT , PRELIMINARY, CHECKED, RELEASED)
 *
 *	File Name:	xxxx.h
-*	Version:	xx
-*	Revision:	xx
-*	Date:		yyyy/mm/dd
+*	Version:	01
+*	Revision:	00
+*	Date:		2023/12/dd
 *	License:	Open-source
 *	******************************** Project Description *******************************************
-*	@Detailed Description:
-*
+*	@Detailed Description: Hot plate project's purpose is to control the temperature of a hot plate
+*   that is used for reflow soldering of PCBs at small numbers. The graph will be set manually or by
+*   computer via USB. This firmware will control a Triac with PWM (to control the heating element
+*   of a hot plate), a fan with PWM (to cool down the plate), some LEDs (to display the status), and
+*   an LCD (for writing text and displaying graph and time). The inputs are thermocouple sensor module
+*   (for measuring plate temperature), rotary encoder (for working manually with device), and a USB
+*   to receive parameters from an application/software.
 *
 *	******************************** File Description *******************************************
 *	@Detailed Description:
@@ -19,14 +24,14 @@
 *
 *
 *	*********************************  Hardware Info  **********************************************
-*   Name:
-*   Version:
+*   Name:       _HW_HotPlate
+*   Version:    v1.0
 *	*********************************  Processor Info **********************************************
-*	Processor:                  x-Bits
-*	Clock Frequency:    00.00   MHz
-*	RAM Size:           00.00   MBytes
-*	Flash Size:         00.00   MBytes
-*	Cache Size:         00.00   MBytes
+*	Processor:          PIC18F24J50 (8-Bits)
+*	Clock Frequency:    48.00   MHz
+*	RAM Size:           03.80   KBytes
+*	Flash Size:         16.00   KBytes
+*
 *	***********************************  Case Style  ***********************************************
 *	Local Variables = camelCase			Global Variables = g_camelCase
 *	Headers = SCREAMIN_SNAKE_CASE
