@@ -48,16 +48,16 @@ user will have a full assembly guideline and also with the connected camera it's
 
 ## WBS Chart
 
-![WBS Chart](https://github.com/mend0z0/OfficeDisplay/tree/main/Document)
+![WBS Chart](https://github.com/mend0z0/)
 
 
 ## Block Diagrams
 
-[Block1](https://github.com/mend0z0/HotPlate/blob/main/Document/Block%20Diagrams/HotPlate-System%20BlockDiagram.drawio.svg)
+![Block1](https://github.com/mend0z0/HotPlate/blob/main/Document/Block%20Diagrams/HotPlate-System%20BlockDiagram.drawio.svg)
 
-[Block2](https://github.com/mend0z0/OfficeDisplay/tree/main/Document)
+![Block2](https://github.com/mend0z0/OfficeDisplay/tree/main/Document)
 
-[Block3](https://github.com/mend0z0/OfficeDisplay/tree/main/Document)
+![Block3](https://github.com/mend0z0/OfficeDisplay/tree/main/Document)
 
 
 ## Screenshots
