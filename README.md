@@ -63,11 +63,21 @@ user will have a full assembly guideline and also with the connected camera it's
 ## Screenshots
 
 ### Hardware
-![App Screenshot](https://github.com/mend0z0/OfficeDisplay/blob/main/Document/Screenshots/E-paper%20driver%20with%20PIC16F%20-%20Failed%20(20231010))
+
+#### 3D_View
+
+![3DView_Top_HotPlate](https://github.com/mend0z0/HotPlate/blob/main/Document/Hardware%20Screenshot/3D%20View/3DView_Top_HotPlate.png)
+
+![3DView_Bottom_HotPlate](https://github.com/mend0z0/HotPlate/blob/main/Document/Hardware%20Screenshot/3D%20View/3DView_Bottom_HotPlate.png)
+ 
+#### Assembled Hardware
+
+![Hardware_Top_HotPlate](https://github.com/mend0z0/HotPlate/blob/main/Document/Hardware%20Screenshot/Hardware/Hardware_Top_HotPlate.png)
+
+![Hardware_Bottom_HotPlate](https://github.com/mend0z0/HotPlate/blob/main/Document/Hardware%20Screenshot/Hardware/Hardware_Bottom_HotPlate.png)
 
 ### Application
-![App Screenshot](https://github.com/mend0z0/OfficeDisplay/blob/main/Document/Screenshots/E-paper%20driver%20with%20PIC16F%20-%20Failed%20(20231010))
-
+![App Screenshot](https://github.com/mend0z0/E-Stationer/blob/main/Document/Applicaiton%20Screenshot/Application-Page-First.png)
 
 
 ## Demo
