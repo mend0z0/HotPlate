@@ -3,7 +3,7 @@
 
 
 ``
-Mainly working on Firmware, but modifying file structures and updating readme files are on-going...
+Mainly working on Firmware, but modifying file structures and updating readme files are also on-going...
 ``
 
 
