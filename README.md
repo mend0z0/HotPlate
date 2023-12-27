@@ -53,11 +53,11 @@ user will have a full assembly guideline and also with the connected camera it's
 
 ## Block Diagrams
 
-![Block1](https://github.com/mend0z0/HotPlate/blob/main/Document/Block%20Diagrams/HotPlate-System%20BlockDiagram.drawio.svg)
+![SystemDesign](https://github.com/mend0z0/HotPlate/blob/main/Document/Block%20Diagrams/HotPlate-_FBD_SYS_HotPlate_v1.0.svg)
 
-![Block2](https://github.com/mend0z0/HotPlate/blob/main/Document/Block%20Diagrams/HotPlate-_FBD_HW_HotPlate.drawio.svg)
+![Hardware](https://github.com/mend0z0/HotPlate/blob/main/Document/Block%20Diagrams/HotPlate-_FBD_HW_HotPlate_v1.0.svg)
 
-![Block3](https://github.com/mend0z0/HotPlate/blob/main/Document/Block%20Diagrams/HotPlate-_FBD_FW_HotPlate.drawio.svg)
+![Firmware](https://github.com/mend0z0/HotPlate/blob/main/Document/Block%20Diagrams/HotPlate-_FBD_FW_HotPlate.drawio.svg)
 
 
 ## Screenshots
