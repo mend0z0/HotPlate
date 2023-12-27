@@ -66,19 +66,19 @@ user will have a full assembly guideline and also with the connected camera it's
 
 #### CAD View
 
-![_HW](https://github.com/mend0z0)
+![_HW](https://github.com/mend0z0/HotPlate/blob/main/Document/Hardware%20Screenshot/Hardware/_HW_HotPlate-v1.0.svg)
 
 #### 3D_View
 
-![_3DView_Top](https://github.com/mend0z0/HotPlate/blob/main/Document/Hardware%20Screenshot/3D%20View/3DView_Top_HotPlate_v1.0.png)
+![_3DView_Top](https://github.com/mend0z0/HotPlate/blob/main/Document/Hardware%20Screenshot/3D%20View/_3DView_Top_HotPlate_v1.0.png)
 
-![_3DView_Bottom](https://github.com/mend0z0/HotPlate/blob/main/Document/Hardware%20Screenshot/3D%20View/3DView_Bottom_HotPlate_v1.0.png)
+![_3DView_Bottom](https://github.com/mend0z0/HotPlate/blob/main/Document/Hardware%20Screenshot/3D%20View/_3DView_Bottom_HotPlate_v1.0.png)
  
 #### Assembled Hardware
 
-![_ASM_HW_Top](https://github.com/mend0z0/HotPlate/blob/main/Document/Hardware%20Screenshot/Assembled%20Hardware/Hardware_Top_HotPlate_v1.0.png)
+![_ASM_HW_Top](https://github.com/mend0z0/HotPlate/blob/main/Document/Hardware%20Screenshot/Assembled%20Hardware/_ASM_HW_Top_HotPlate_v1.0.png)
 
-![_ASM_HW_Bottom](https://github.com/mend0z0/HotPlate/blob/main/Document/Hardware%20Screenshot/Assembled%20Hardware/Hardware_Bottom_HotPlate_v1.0.png)
+![_ASM_HW_Bottom](https://github.com/mend0z0/HotPlate/blob/main/Document/Hardware%20Screenshot/Assembled%20Hardware/_ASM_HW_Bottom_HotPlate_v1.0.png)
 
 ### Application
 ![App Screenshot](https://github.com/mend0z0)
