@@ -1902,7 +1902,6 @@
     (fp_line (start 3 3) (end -3 3)
       (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 54360989-bdb9-4138-b133-88c13918458b))
     (pad "" smd custom (at -1.775 -1.775) (size 0.460271 0.460271) (layers "F.Paste")
-      (thermal_bridge_angle 45)
       (options (clearance outline) (anchor circle))
       (primitives
         (gr_poly
@@ -1916,7 +1915,6 @@
           (width 0.208173) (fill yes))
       ) (tstamp 1ade8a61-1359-46f5-90c6-b7b6c06d1218))
     (pad "" smd custom (at -1.775 -0.95) (size 0.477399 0.477399) (layers "F.Paste")
-      (thermal_bridge_angle 45)
       (options (clearance outline) (anchor circle))
       (primitives
         (gr_poly
@@ -1931,7 +1929,6 @@
           (width 0.173919) (fill yes))
       ) (tstamp b503e7ac-1002-42fd-b87f-0a3585341a27))
     (pad "" smd custom (at -1.775 0) (size 0.477399 0.477399) (layers "F.Paste")
-      (thermal_bridge_angle 45)
       (options (clearance outline) (anchor circle))
       (primitives
         (gr_poly
@@ -1946,7 +1943,6 @@
           (width 0.173919) (fill yes))
       ) (tstamp f15c7329-3025-4158-b6a7-6acc4eb88391))
     (pad "" smd custom (at -1.775 0.95) (size 0.477399 0.477399) (layers "F.Paste")
-      (thermal_bridge_angle 45)
       (options (clearance outline) (anchor circle))
       (primitives
         (gr_poly
@@ -1961,7 +1957,6 @@
           (width 0.173919) (fill yes))
       ) (tstamp 6bbbe033-f2d2-4e54-9d89-ef5f5d1c4e61))
     (pad "" smd custom (at -1.775 1.775) (size 0.460271 0.460271) (layers "F.Paste")
-      (thermal_bridge_angle 45)
       (options (clearance outline) (anchor circle))
       (primitives
         (gr_poly
@@ -1975,7 +1970,6 @@
           (width 0.208173) (fill yes))
       ) (tstamp 21ba7d17-79aa-4c54-8920-cd8a78ee1c33))
     (pad "" smd custom (at -0.95 -1.775) (size 0.477399 0.477399) (layers "F.Paste")
-      (thermal_bridge_angle 45)
       (options (clearance outline) (anchor circle))
       (primitives
         (gr_poly
@@ -1993,7 +1987,6 @@
     (pad "" smd roundrect (at -0.95 0) (size 0.765914 0.765914) (layers "F.Paste") (roundrect_rratio 0.2500006528) (tstamp ae88182d-f95f-4085-b612-7496b0dbcfe1))
     (pad "" smd roundrect (at -0.95 0.95) (size 0.765914 0.765914) (layers "F.Paste") (roundrect_rratio 0.2500006528) (tstamp 38ea9246-fd22-4294-b74c-24b4b567b0d2))
     (pad "" smd custom (at -0.95 1.775) (size 0.477399 0.477399) (layers "F.Paste")
-      (thermal_bridge_angle 45)
       (options (clearance outline) (anchor circle))
       (primitives
         (gr_poly
@@ -2008,7 +2001,6 @@
           (width 0.173919) (fill yes))
       ) (tstamp cd7780c1-8c6a-4474-96a9-57b9a66f440d))
     (pad "" smd custom (at 0 -1.775) (size 0.477399 0.477399) (layers "F.Paste")
-      (thermal_bridge_angle 45)
       (options (clearance outline) (anchor circle))
       (primitives
         (gr_poly
@@ -2026,7 +2018,6 @@
     (pad "" smd roundrect (at 0 0) (size 0.765914 0.765914) (layers "F.Paste") (roundrect_rratio 0.2500006528) (tstamp 14834aba-b8c9-4309-af40-1840d86574e3))
     (pad "" smd roundrect (at 0 0.95) (size 0.765914 0.765914) (layers "F.Paste") (roundrect_rratio 0.2500006528) (tstamp 3eaa464f-b8d6-4a7c-8637-7b65dd9df532))
     (pad "" smd custom (at 0 1.775) (size 0.477399 0.477399) (layers "F.Paste")
-      (thermal_bridge_angle 45)
       (options (clearance outline) (anchor circle))
       (primitives
         (gr_poly
@@ -2041,7 +2032,6 @@
           (width 0.173919) (fill yes))
       ) (tstamp c56355af-1994-4a16-ab8a-6cb4b7e07c12))
     (pad "" smd custom (at 0.95 -1.775) (size 0.477399 0.477399) (layers "F.Paste")
-      (thermal_bridge_angle 45)
       (options (clearance outline) (anchor circle))
       (primitives
         (gr_poly
@@ -2059,7 +2049,6 @@
     (pad "" smd roundrect (at 0.95 0) (size 0.765914 0.765914) (layers "F.Paste") (roundrect_rratio 0.2500006528) (tstamp 832fdac5-9a70-450b-a95c-e9a10480cff1))
     (pad "" smd roundrect (at 0.95 0.95) (size 0.765914 0.765914) (layers "F.Paste") (roundrect_rratio 0.2500006528) (tstamp 57983de1-6036-495f-ad61-64420a68294d))
     (pad "" smd custom (at 0.95 1.775) (size 0.477399 0.477399) (layers "F.Paste")
-      (thermal_bridge_angle 45)
       (options (clearance outline) (anchor circle))
       (primitives
         (gr_poly
@@ -2074,7 +2063,6 @@
           (width 0.173919) (fill yes))
       ) (tstamp 1f77b7b6-e68c-40db-8ba5-b006e68454a9))
     (pad "" smd custom (at 1.775 -1.775) (size 0.460271 0.460271) (layers "F.Paste")
-      (thermal_bridge_angle 45)
       (options (clearance outline) (anchor circle))
       (primitives
         (gr_poly
@@ -2088,7 +2076,6 @@
           (width 0.208173) (fill yes))
       ) (tstamp 9185384c-278a-45cf-b9dd-32dcb85ac2c5))
     (pad "" smd custom (at 1.775 -0.95) (size 0.477399 0.477399) (layers "F.Paste")
-      (thermal_bridge_angle 45)
       (options (clearance outline) (anchor circle))
       (primitives
         (gr_poly
@@ -2103,7 +2090,6 @@
           (width 0.173919) (fill yes))
       ) (tstamp f85b32b4-7bcf-4346-9c8d-e7478d9180db))
     (pad "" smd custom (at 1.775 0) (size 0.477399 0.477399) (layers "F.Paste")
-      (thermal_bridge_angle 45)
       (options (clearance outline) (anchor circle))
       (primitives
         (gr_poly
@@ -2118,7 +2104,6 @@
           (width 0.173919) (fill yes))
       ) (tstamp adc3494e-8d3e-4d76-b94d-571969b25554))
     (pad "" smd custom (at 1.775 0.95) (size 0.477399 0.477399) (layers "F.Paste")
-      (thermal_bridge_angle 45)
       (options (clearance outline) (anchor circle))
       (primitives
         (gr_poly
@@ -2133,7 +2118,6 @@
           (width 0.173919) (fill yes))
       ) (tstamp 32220d24-f15f-4ac7-9490-f4ea7bf05ede))
     (pad "" smd custom (at 1.775 1.775) (size 0.460271 0.460271) (layers "F.Paste")
-      (thermal_bridge_angle 45)
       (options (clearance outline) (anchor circle))
       (primitives
         (gr_poly
@@ -10237,8 +10221,8 @@
   )
   (dimension (type aligned) (layer "Dwgs.User") (tstamp 283cb4d4-c15a-431f-8666-460dc11cb66b)
     (pts (xy 115.443 127) (xy 165.1 127))
-    (height -5.715)
-    (gr_text "1955.0000 mils" (at 140.2715 120.135) (layer "Dwgs.User") (tstamp 283cb4d4-c15a-431f-8666-460dc11cb66b)
+    (height -7.62)
+    (gr_text "1955.0000 mils" (at 140.2715 118.23) (layer "Dwgs.User") (tstamp 283cb4d4-c15a-431f-8666-460dc11cb66b)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (format (prefix "") (suffix "") (units 3) (units_format 1) (precision 4))
@@ -10252,6 +10236,33 @@
     )
     (format (prefix "") (suffix "") (units 3) (units_format 1) (precision 4))
     (style (thickness 0.15) (arrow_length 1.27) (text_position_mode 0) (extension_height 0.58642) (extension_offset 0.5) keep_text_aligned)
+  )
+  (dimension (type aligned) (layer "Dwgs.User") (tstamp 985de273-8793-4197-bc72-2828623567c6)
+    (pts (xy 165.1 132) (xy 165.1 127))
+    (height 10.16)
+    (gr_text "196.8504 mils" (at 175.26 138.43 90) (layer "Dwgs.User") (tstamp 985de273-8793-4197-bc72-2828623567c6)
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (format (prefix "") (suffix "") (units 3) (units_format 1) (precision 4))
+    (style (thickness 0.15) (arrow_length 1.27) (text_position_mode 2) (extension_height 0.58642) (extension_offset 0.5) keep_text_aligned)
+  )
+  (dimension (type aligned) (layer "Dwgs.User") (tstamp ae09d833-9d35-4b21-8d2b-df7f8d397807)
+    (pts (xy 145.8468 127) (xy 149.098 127))
+    (height -2.54)
+    (gr_text "128.0000 mils" (at 147.4724 123.31) (layer "Dwgs.User") (tstamp ae09d833-9d35-4b21-8d2b-df7f8d397807)
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (format (prefix "") (suffix "") (units 3) (units_format 1) (precision 4))
+    (style (thickness 0.15) (arrow_length 1.27) (text_position_mode 0) (extension_height 0.58642) (extension_offset 0.5) keep_text_aligned)
+  )
+  (dimension (type aligned) (layer "Dwgs.User") (tstamp ca32fb03-0b43-4585-8533-3ca70dafd55c)
+    (pts (xy 165.1 171.657) (xy 165.1 176.657))
+    (height -10.16)
+    (gr_text "196.8504 mils" (at 175.26 165.1 90) (layer "Dwgs.User") (tstamp ca32fb03-0b43-4585-8533-3ca70dafd55c)
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (format (prefix "") (suffix "") (units 3) (units_format 1) (precision 4))
+    (style (thickness 0.15) (arrow_length 1.27) (text_position_mode 2) (extension_height 0.58642) (extension_offset 0.5) keep_text_aligned)
   )
 
   (segment (start 157.538545 162.0164) (end 157.1498 162.0164) (width 0.3048) (layer "F.Cu") (net 1) (tstamp 01d83780-f9d0-4566-a839-77889cb528c3))
