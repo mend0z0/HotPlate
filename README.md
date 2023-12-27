@@ -66,15 +66,15 @@ user will have a full assembly guideline and also with the connected camera it's
 
 #### 3D_View
 
-![3DView_Top_HotPlate](https://github.com/mend0z0/HotPlate/blob/main/Document/Hardware%20Screenshot/3D%20View/3DView_Top_HotPlate.png)
+![3DView_Top](https://github.com/mend0z0/HotPlate/blob/main/Document/Hardware%20Screenshot/3D%20View/3DView_Top_HotPlate_v1.0.png)
 
-![3DView_Bottom_HotPlate](https://github.com/mend0z0/HotPlate/blob/main/Document/Hardware%20Screenshot/3D%20View/3DView_Bottom_HotPlate.png)
+![3DView_Bottom](https://github.com/mend0z0/HotPlate/blob/main/Document/Hardware%20Screenshot/3D%20View/3DView_Bottom_HotPlate_v1.0.png)
  
 #### Assembled Hardware
 
-![Hardware_Top_HotPlate](https://github.com/mend0z0/HotPlate/blob/main/Document/Hardware%20Screenshot/Hardware/Hardware_Top_HotPlate.png)
+![Hardware_Top](https://github.com/mend0z0/HotPlate/blob/main/Document/Hardware%20Screenshot/Hardware/Hardware_Top_HotPlate.png)
 
-![Hardware_Bottom_HotPlate](https://github.com/mend0z0/HotPlate/blob/main/Document/Hardware%20Screenshot/Hardware/Hardware_Bottom_HotPlate.png)
+![Hardware_Bottom](https://github.com/mend0z0/HotPlate/blob/main/Document/Hardware%20Screenshot/Hardware/Hardware_Bottom_HotPlate.png)
 
 ### Application
 ![App Screenshot](https://github.com/mend0z0/E-Stationer/blob/main/Document/Applicaiton%20Screenshot/Application-Page-First.png)
