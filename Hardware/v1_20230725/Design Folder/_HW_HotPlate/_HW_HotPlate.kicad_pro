@@ -444,7 +444,7 @@
       "step": "_HW_HotPlate.step",
       "vrml": ""
     },
-    "page_layout_descr_file": "ANSI B Landscape_PCBDoc_Mend0z0.kicad_wks"
+    "page_layout_descr_file": "ANSI C Landscape_PCBDoc_Mend0z0.kicad_wks"
   },
   "schematic": {
     "annotate_start_num": 0,
@@ -470,7 +470,7 @@
       "version": 1
     },
     "net_format_name": "",
-    "page_layout_descr_file": "ANSI B Landscape_SCHDoc_Mend0z0.kicad_wks",
+    "page_layout_descr_file": "ANSI C Landscape_SCHDoc_Mend0z0.kicad_wks",
     "plot_directory": "",
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
@@ -499,7 +499,7 @@
     ],
     [
       "c7f075fd-cf3f-4418-bba9-99eb6964fe6f",
-      "ISOLATED TRAIC DRIVER"
+      "ISOLATED TRIAC DRIVER"
     ],
     [
       "770e2a4e-d099-4f35-bd88-95f35bbef232",
@@ -523,11 +523,19 @@
     ],
     [
       "74c520c7-1339-4de8-8ebe-9c90685c3c7c",
-      "PWR "
+      "POWER SUPPLY"
     ],
     [
       "15f0b3c1-af39-4ee1-a607-6045adf0f9f8",
       "MECHANICAL PARTS"
+    ],
+    [
+      "ff972025-0ac9-47b7-9d9a-e35a6d65bfba",
+      "PWR SEQUENCE"
+    ],
+    [
+      "c94416d0-4b96-42d1-a694-14081bf9177e",
+      "REVISION HISTORY"
     ]
   ],
   "text_variables": {}

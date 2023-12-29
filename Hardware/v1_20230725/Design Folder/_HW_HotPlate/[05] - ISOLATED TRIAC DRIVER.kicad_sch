@@ -2,7 +2,7 @@
 
   (uuid 42983173-4b57-4cf4-8dfa-c264b293a821)
 
-  (paper "B")
+  (paper "C")
 
   (title_block
     (title "Hot Plate")
@@ -10,6 +10,7 @@
     (rev "v1.0")
     (company "Mend0z0")
     (comment 1 "v1")
+    (comment 2 "RELEASED")
     (comment 3 "Siavash Taher Parvar")
     (comment 8 "N/A")
   )
@@ -1319,10 +1320,6 @@
   (text "CLEAN SIDE" (at 142.24 148.59 90)
     (effects (font (size 5.08 5.08)) (justify left bottom))
     (uuid adc0be93-8269-4d11-8bc3-e9922fe37c1a)
-  )
-  (text "CHECKED" (at 378.46 36.83 0)
-    (effects (font (size 5 5)) (justify left bottom))
-    (uuid c19b0277-ee3c-4755-888e-1fa590538631)
   )
   (text "DESIGN NOTE:\n\nThe Idea for finding the zero-crossing\npoint is by capturing the positive peeks\nvalue and then derive the zero point\n\nIMPORTANT: \nOpto Ion = 1mA, Von = 0.9V, V Rectifier diode = 0.7V\nVon : (0.001A * 100KR) + 0.9 + 0.7 ~= +110V\n\nIt's possible to figure out the frequency and\nworking voltage by the delay between two +110V."
     (at 58.42 74.93 0)

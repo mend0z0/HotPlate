@@ -2,7 +2,7 @@
 
   (uuid c592e607-f900-4965-92ce-ba7ebf1c75f7)
 
-  (paper "B")
+  (paper "C")
 
   (title_block
     (title "Hot Plate")
@@ -10,6 +10,7 @@
     (rev "v1.0")
     (company "Mend0z0")
     (comment 1 "v1")
+    (comment 2 "RELEASED")
     (comment 3 "Siavash Taher Parvar")
     (comment 8 "N/A")
   )
@@ -967,11 +968,6 @@
   (wire (pts (xy 81.28 156.21) (xy 91.44 156.21))
     (stroke (width 0) (type default))
     (uuid ff56584f-614a-4d3b-9ccd-f3d2dc697dfc)
-  )
-
-  (text "CHECKED" (at 378.46 34.29 0)
-    (effects (font (size 5 5)) (justify left bottom))
-    (uuid 7b2297b6-bd55-4e52-92b8-eea49e5a9248)
   )
 
   (label "KEY-040_B" (at 83.82 148.59 0) (fields_autoplaced)

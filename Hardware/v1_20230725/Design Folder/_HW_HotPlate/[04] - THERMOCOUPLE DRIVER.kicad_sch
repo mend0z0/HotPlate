@@ -2,7 +2,7 @@
 
   (uuid fc042daf-7c3c-4fcf-a626-cf3e00b1e559)
 
-  (paper "B")
+  (paper "C")
 
   (title_block
     (title "Hot Plate")
@@ -10,6 +10,7 @@
     (rev "v1.0")
     (company "Mend0z0")
     (comment 1 "v1")
+    (comment 2 "RELEASED")
     (comment 3 "Siavash Taher Parvar")
     (comment 8 "N/A")
   )
@@ -796,10 +797,6 @@
   (text "I = 1.5mA @ +3V3DC" (at 143.51 132.08 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 1d898b92-6ec0-45b8-8ce8-03b609d3ec3f)
-  )
-  (text "CHECKED" (at 378.46 38.1 0)
-    (effects (font (size 5 5)) (justify left bottom))
-    (uuid 2fd6a61e-a46f-4745-9275-f9f3142f9a19)
   )
   (text "DESIGN NOTE:\n\nIt is strongly recommended \nto add a 10nF ceramic surface-mount\ndifferential capacitor, placed across\nthe T+ and T- pins, in order to \nfilter noise on the thermocouple lines.\n"
     (at 151.13 104.14 0)

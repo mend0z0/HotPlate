@@ -2,7 +2,7 @@
 
   (uuid 6d759188-e7e2-4e68-a1d9-380de663bee5)
 
-  (paper "B")
+  (paper "C")
 
   (title_block
     (title "Hot Plate")
@@ -10,6 +10,7 @@
     (rev "v1.0")
     (company "Mend0z0")
     (comment 1 "v1")
+    (comment 2 "RELEASED")
     (comment 3 "Siavash Taher Parvar")
     (comment 8 "N/A")
   )
@@ -833,10 +834,6 @@
     (at 228.6 166.37 0)
     (effects (font (size 5 5)) (justify left bottom))
     (uuid b9be0e7c-e1ab-4d99-bbb4-98b2488ebe37)
-  )
-  (text "CHECKED" (at 381 36.83 0)
-    (effects (font (size 5 5)) (justify left bottom))
-    (uuid c2316af0-914c-4b66-bf71-08c1e48b8612)
   )
 
   (symbol (lib_id "_SCHLIB_HotPlate:MECH_LED_HOLDER") (at 34.29 74.93 0) (unit 1)

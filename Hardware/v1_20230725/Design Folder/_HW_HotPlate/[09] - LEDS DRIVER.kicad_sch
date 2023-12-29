@@ -2,7 +2,7 @@
 
   (uuid 179a21d2-f401-45e0-83d3-341e60c97b30)
 
-  (paper "B")
+  (paper "C")
 
   (title_block
     (title "Hot Plate")
@@ -10,6 +10,7 @@
     (rev "v1.0")
     (company "Mend0z0")
     (comment 1 "v1")
+    (comment 2 "RELEASED")
     (comment 3 "Siavash Taher Parvar")
     (comment 8 "N/A")
   )
@@ -903,10 +904,6 @@
   (text "I@5VDC ~= 5 mA" (at 240.03 134.62 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid af6d930d-f48f-476e-886f-c8a6e0e0eb6b)
-  )
-  (text "CHECKED" (at 382.27 35.56 0)
-    (effects (font (size 5 5)) (justify left bottom))
-    (uuid e014b5ef-9d7d-49a5-a3f5-e3d00df668c1)
   )
   (text "330uA @ +3v3DC" (at 297.18 146.05 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
