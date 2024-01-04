@@ -53,9 +53,9 @@ user will have a full assembly guideline and also with the connected camera it's
 
 ## Block Diagrams
 
-![SystemDesign](https://github.com/mend0z0/HotPlate/blob/main/Document/Block%20Diagrams/HotPlate-_FBD_SYS_HotPlate_v1.0.svg)
+![SystemDesign](https://github.com/mend0z0/HotPlate/blob/main/Document/Block%20Diagrams/_FBD_SYS_HotPlate_v1.0.svg)
 
-![Hardware](https://github.com/mend0z0/HotPlate/blob/main/Document/Block%20Diagrams/HotPlate-_FBD_HW_HotPlate_v1.0.svg)
+![Hardware](https://github.com/mend0z0/HotPlate/blob/main/Document/Block%20Diagrams/_FBD_HW_HotPlate_v1.0.svg)
 
 ![Firmware](https://github.com/mend0z0/HotPlate/blob/main/Document/Block%20Diagrams/HotPlate-_FBD_FW_HotPlate.drawio.svg)
 
@@ -66,19 +66,19 @@ user will have a full assembly guideline and also with the connected camera it's
 
 #### CAD View
 
-![_HW](https://github.com/mend0z0/HotPlate/blob/main/Document/Hardware%20Screenshot/Hardware/_HW_HotPlate-v1.0.svg)
+![_CADView](https://github.com/mend0z0/HotPlate/blob/main/Document/Media%20Content/Hardware%20Pictures/CAD%20View/_CADView_HotPlate_v1.0.svg)
 
 #### 3D_View
 
-![_3DView_Top](https://github.com/mend0z0/HotPlate/blob/main/Document/Hardware%20Screenshot/3D%20View/_3DView_Top_HotPlate_v1.0.png)
+![_3DView_Top](https://github.com/mend0z0/HotPlate/blob/main/Document/Media%20Content/Hardware%20Pictures/3D%20View/_3DView_Top_HotPlate_v1.0.png)
 
-![_3DView_Bottom](https://github.com/mend0z0/HotPlate/blob/main/Document/Hardware%20Screenshot/3D%20View/_3DView_Bottom_HotPlate_v1.0.png)
+![_3DView_Bottom](https://github.com/mend0z0/HotPlate/blob/main/Document/Media%20Content/Hardware%20Pictures/3D%20View/_3DView_Bottom_HotPlate_v1.0.png)
  
 #### Assembled Hardware
 
-![_ASM_HW_Top](https://github.com/mend0z0/HotPlate/blob/main/Document/Hardware%20Screenshot/Assembled%20Hardware/_ASM_HW_Top_HotPlate_v1.0.png)
+![_ASMView_Top](https://github.com/mend0z0/HotPlate/blob/main/Document/Media%20Content/Hardware%20Pictures/Assembled%20Hardware/_ASMView_Top_HotPlate_v1.0.png)
 
-![_ASM_HW_Bottom](https://github.com/mend0z0/HotPlate/blob/main/Document/Hardware%20Screenshot/Assembled%20Hardware/_ASM_HW_Bottom_HotPlate_v1.0.png)
+![_ASMView_Bottom](https://github.com/mend0z0/HotPlate/blob/main/Document/Media%20Content/Hardware%20Pictures/Assembled%20Hardware/_ASMView_Bottom_HotPlate_v1.0.png)
 
 ### Application
 ![App Screenshot](https://github.com/mend0z0)
