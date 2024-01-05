@@ -86,8 +86,7 @@ user will have a full assembly guideline and also with the connected camera it's
 
 ## Demo
 
-Insert gif or link to demo, it'll be my youtube channel
-https://github.com/mend0z0/HotPlate/blob/main/Document/Media%20Content/Videos/20240105_175045.mp4
+![Demo Test](https://github.com/mend0z0/)
 
 ## LOGO
 
