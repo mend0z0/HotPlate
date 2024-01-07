@@ -16,7 +16,7 @@
   )
 
   (lib_symbols
-    (symbol "_SCHLIB_HotPlate:CAP_100nF_6V3_X7R_C0201" (in_bom yes) (on_board yes)
+    (symbol "_SCHLIB_HotPlate:CAP_CER_100nF_6V3_X7R_C0201" (in_bom yes) (on_board yes)
       (property "Reference" "C" (at 2.54 5.08 0)
         (effects (font (size 1.27 1.27)) (justify left))
       )
@@ -62,7 +62,7 @@
       (property "ki_description" "0.1 µF ±10% 6.3V Ceramic Capacitor X7R 0201 (0603 Metric)" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (symbol "CAP_100nF_6V3_X7R_C0201_0_0"
+      (symbol "CAP_CER_100nF_6V3_X7R_C0201_0_0"
         (polyline
           (pts
             (xy 5.08 1.27)
@@ -80,7 +80,7 @@
           (fill (type none))
         )
       )
-      (symbol "CAP_100nF_6V3_X7R_C0201_1_1"
+      (symbol "CAP_CER_100nF_6V3_X7R_C0201_1_1"
         (pin passive line (at 0 0 0) (length 5.08)
           (name "" (effects (font (size 1.27 1.27))))
           (number "1" (effects (font (size 1.27 1.27))))
@@ -91,7 +91,7 @@
         )
       )
     )
-    (symbol "_SCHLIB_HotPlate:CAP_10uF_16V_X5R_C0603" (in_bom yes) (on_board yes)
+    (symbol "_SCHLIB_HotPlate:CAP_CER_10uF_16V_X5R_C0603" (in_bom yes) (on_board yes)
       (property "Reference" "C" (at 2.54 3.81 0)
         (effects (font (size 1.27 1.27)) (justify left))
       )
@@ -137,7 +137,7 @@
       (property "ki_description" "10 µF ±10% 16V Ceramic Capacitor X5R 0603 (1608 Metric)" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (symbol "CAP_10uF_16V_X5R_C0603_0_0"
+      (symbol "CAP_CER_10uF_16V_X5R_C0603_0_0"
         (polyline
           (pts
             (xy 5.08 1.27)
@@ -155,7 +155,7 @@
           (fill (type none))
         )
       )
-      (symbol "CAP_10uF_16V_X5R_C0603_1_1"
+      (symbol "CAP_CER_10uF_16V_X5R_C0603_1_1"
         (pin passive line (at 0 0 0) (length 5.08)
           (name "" (effects (font (size 1.27 1.27))))
           (number "1" (effects (font (size 1.27 1.27))))
@@ -166,7 +166,7 @@
         )
       )
     )
-    (symbol "_SCHLIB_HotPlate:CAP_12pF_50V_C0G_C0201" (in_bom yes) (on_board yes)
+    (symbol "_SCHLIB_HotPlate:CAP_CER_12pF_50V_C0G_C0201" (in_bom yes) (on_board yes)
       (property "Reference" "C" (at 3.81 5.08 0)
         (effects (font (size 1.27 1.27)) (justify left))
       )
@@ -212,7 +212,7 @@
       (property "ki_description" "12 pF ±5% 50V Ceramic Capacitor C0G, NP0 0201 (0603 Metric)" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (symbol "CAP_12pF_50V_C0G_C0201_0_0"
+      (symbol "CAP_CER_12pF_50V_C0G_C0201_0_0"
         (polyline
           (pts
             (xy 5.08 1.27)
@@ -230,7 +230,7 @@
           (fill (type none))
         )
       )
-      (symbol "CAP_12pF_50V_C0G_C0201_1_1"
+      (symbol "CAP_CER_12pF_50V_C0G_C0201_1_1"
         (pin passive line (at 0 0 0) (length 5.08)
           (name "" (effects (font (size 1.27 1.27))))
           (number "1" (effects (font (size 1.27 1.27))))
@@ -1982,7 +1982,7 @@
     )
   )
 
-  (symbol (lib_id "_SCHLIB_HotPlate:CAP_12pF_50V_C0G_C0201") (at 125.73 166.37 180) (unit 1)
+  (symbol (lib_id "_SCHLIB_HotPlate:CAP_CER_12pF_50V_C0G_C0201") (at 125.73 166.37 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0fe54d7f-dc1f-4891-acde-d6d6c8750f66)
     (property "Reference" "C302" (at 128.27 165.1 0)
@@ -2115,7 +2115,7 @@
     )
   )
 
-  (symbol (lib_id "_SCHLIB_HotPlate:CAP_100nF_6V3_X7R_C0201") (at 209.55 213.36 270) (unit 1)
+  (symbol (lib_id "_SCHLIB_HotPlate:CAP_CER_100nF_6V3_X7R_C0201") (at 209.55 213.36 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1fd48a4a-1d1e-4634-80d5-2e815ed47821)
     (property "Reference" "C308" (at 212.09 214.63 90)
@@ -2277,7 +2277,7 @@
     )
   )
 
-  (symbol (lib_id "_SCHLIB_HotPlate:CAP_10uF_16V_X5R_C0603") (at 186.69 213.36 270) (unit 1)
+  (symbol (lib_id "_SCHLIB_HotPlate:CAP_CER_10uF_16V_X5R_C0603") (at 186.69 213.36 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3390f80d-91b4-4228-9bbe-e5ba2fe9fda9)
     (property "Reference" "C307" (at 189.23 214.63 90)
@@ -2330,7 +2330,7 @@
     )
   )
 
-  (symbol (lib_id "_SCHLIB_HotPlate:CAP_100nF_6V3_X7R_C0201") (at 430.53 219.71 270) (unit 1)
+  (symbol (lib_id "_SCHLIB_HotPlate:CAP_CER_100nF_6V3_X7R_C0201") (at 430.53 219.71 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3d30743d-4604-4dc9-ae05-e098350b84e6)
     (property "Reference" "C311" (at 433.07 220.98 90)
@@ -2383,7 +2383,7 @@
     )
   )
 
-  (symbol (lib_id "_SCHLIB_HotPlate:CAP_10uF_16V_X5R_C0603") (at 87.63 208.28 270) (unit 1)
+  (symbol (lib_id "_SCHLIB_HotPlate:CAP_CER_10uF_16V_X5R_C0603") (at 87.63 208.28 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 459a16e0-30be-4494-8112-646ae8110c13)
     (property "Reference" "C305" (at 90.17 209.55 90)
@@ -2436,7 +2436,7 @@
     )
   )
 
-  (symbol (lib_id "_SCHLIB_HotPlate:CAP_100nF_6V3_X7R_C0201") (at 110.49 208.28 270) (unit 1)
+  (symbol (lib_id "_SCHLIB_HotPlate:CAP_CER_100nF_6V3_X7R_C0201") (at 110.49 208.28 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 48474e17-4706-4654-82f8-564e4355ba59)
     (property "Reference" "C306" (at 113.03 209.55 90)
@@ -2567,7 +2567,7 @@
     )
   )
 
-  (symbol (lib_id "_SCHLIB_HotPlate:CAP_100nF_6V3_X7R_C0201") (at 346.71 213.36 270) (unit 1)
+  (symbol (lib_id "_SCHLIB_HotPlate:CAP_CER_100nF_6V3_X7R_C0201") (at 346.71 213.36 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 68328a2f-c1bd-4b33-ba22-ca5eabb4f968)
     (property "Reference" "C309" (at 349.25 214.63 90)
@@ -2620,7 +2620,7 @@
     )
   )
 
-  (symbol (lib_id "_SCHLIB_HotPlate:CAP_12pF_50V_C0G_C0201") (at 125.73 148.59 180) (unit 1)
+  (symbol (lib_id "_SCHLIB_HotPlate:CAP_CER_12pF_50V_C0G_C0201") (at 125.73 148.59 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6c2337b5-dedc-4789-a044-db6f321fbd74)
     (property "Reference" "C301" (at 128.27 147.32 0)
@@ -2673,7 +2673,7 @@
     )
   )
 
-  (symbol (lib_id "_SCHLIB_HotPlate:CAP_100nF_6V3_X7R_C0201") (at 68.58 185.42 270) (unit 1)
+  (symbol (lib_id "_SCHLIB_HotPlate:CAP_CER_100nF_6V3_X7R_C0201") (at 68.58 185.42 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7b977666-7b42-42d5-8af5-e15421a6d559)
     (property "Reference" "C304" (at 71.12 187.96 90)
@@ -2882,7 +2882,7 @@
     )
   )
 
-  (symbol (lib_id "_SCHLIB_HotPlate:CAP_100nF_6V3_X7R_C0201") (at 430.53 181.61 270) (unit 1)
+  (symbol (lib_id "_SCHLIB_HotPlate:CAP_CER_100nF_6V3_X7R_C0201") (at 430.53 181.61 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a3581edd-d4e5-4ac6-bd34-38f3c4c06b15)
     (property "Reference" "C303" (at 433.07 182.88 90)
@@ -3304,7 +3304,7 @@
     )
   )
 
-  (symbol (lib_id "_SCHLIB_HotPlate:CAP_10uF_16V_X5R_C0603") (at 370.84 213.36 270) (unit 1)
+  (symbol (lib_id "_SCHLIB_HotPlate:CAP_CER_10uF_16V_X5R_C0603") (at 370.84 213.36 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid fa76ca7c-67e7-4481-a5bd-166aec451441)
     (property "Reference" "C310" (at 373.38 214.63 90)

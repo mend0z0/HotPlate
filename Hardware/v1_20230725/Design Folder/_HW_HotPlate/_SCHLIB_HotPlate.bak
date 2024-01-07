@@ -1298,7 +1298,7 @@
     (property "Value" "USB_MICRO B_RA" (at 2.54 5.08 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector_USB:USB_Micro-B_Amphenol_10118194_Horizontal" (at 2.54 15.24 0)
+    (property "Footprint" "_PCBLIB_HotPlate:USB_Micro-B_Amphenol_10118194_Horizontal" (at 2.54 15.24 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Datasheet" "https://www.amphenol-cs.com/media/wysiwyg/files/drawing/10118194.pdf" (at 2.54 7.62 0)
