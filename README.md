@@ -41,16 +41,6 @@ user will have a full assembly guideline and also with the connected camera it's
 - **Application:**
 
 
-
-
-
-
-
-## WBS Chart
-
-![WBS Chart](https://github.com/mend0z0/)
-
-
 ## Block Diagrams
 
 ![SystemDesign](https://github.com/mend0z0/HotPlate/blob/main/Document/Block%20Diagrams/_FBD_SYS_HotPlate_v1.0.svg)
