@@ -38,7 +38,7 @@ user will have a full assembly guideline and also with the connected camera it's
 
 ### Application
 
-- **Application:**
+- **Application:** Qt6
 
 
 ## Block Diagrams
