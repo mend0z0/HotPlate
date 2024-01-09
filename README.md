@@ -57,7 +57,7 @@ user will have a full assembly guideline and also with the connected camera it's
 
 ![Hardware](https://github.com/mend0z0/HotPlate/blob/main/Document/Block%20Diagrams/_FBD_HW_HotPlate_v1.0.svg)
 
-![Firmware](https://github.com/mend0z0/HotPlate/blob/main/Document/Block%20Diagrams/HotPlate-_FBD_FW_HotPlate.drawio.svg)
+![Firmware](https://github.com/mend0z0/HotPlate/blob/main/Document/Block%20Diagrams/_FBD_FW_HotPlate_v1.0.svg)
 
 
 ## Screenshots
