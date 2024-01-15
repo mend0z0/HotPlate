@@ -66,9 +66,9 @@ user will have a full assembly guideline and also with the connected camera it's
  
 #### Assembled Hardware
 
-![_ASMView_Top](https://github.com/mend0z0/HotPlate/blob/main/Document/Media%20Content/Hardware%20Pictures/Assembled%20Hardware/_ASMView_Top_HotPlate_v1.0.png)
+![_ASMView_Top](https://github.com/mend0z0/HotPlate/blob/main/Document/Media%20Content/Hardware%20Pictures/Assembled%20Hardware/_ASMView_Top_HotPlate_v1.0.jpeg)
 
-![_ASMView_Bottom](https://github.com/mend0z0/HotPlate/blob/main/Document/Media%20Content/Hardware%20Pictures/Assembled%20Hardware/_ASMView_Bottom_HotPlate_v1.0.png)
+![_ASMView_Bottom](https://github.com/mend0z0/HotPlate/blob/main/Document/Media%20Content/Hardware%20Pictures/Assembled%20Hardware/_ASMView_Bottom_HotPlate_v1.0.jpeg)
 
 ### Application
 ![App Screenshot](https://github.com/mend0z0)
