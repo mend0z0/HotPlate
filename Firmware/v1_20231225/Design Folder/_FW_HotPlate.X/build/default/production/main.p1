@@ -765,6 +765,52 @@ Version 4.0 HI-TECH Software Intermediate Code
 "14972
 [; ;C:/Program Files/Microchip/MPLABX/v6.00/packs/Microchip/PIC18F-J_DFP/1.5.44/xc8\pic\include\proc\pic18f24j50.h: 14972: __asm("TOSU equ 0FFFh");
 [; <" TOSU equ 0FFFh ;# ">
+"61 ./main.h
+[p x WDTEN  =  ON        ]
+"62
+[p x PLLDIV  =  1        ]
+"63
+[p x STVREN  =  ON       ]
+"64
+[p x XINST  =  OFF       ]
+"67
+[p x CPUDIV  =  OSC1     ]
+"68
+[p x CP0  =  OFF         ]
+"71
+[p x OSC  =  ECPLL       ]
+"72
+[p x T1DIG  =  ON        ]
+"73
+[p x LPT1OSC  =  OFF     ]
+"74
+[p x FCMEN  =  ON        ]
+"75
+[p x IESO  =  ON         ]
+"78
+[p x WDTPS  =  32768     ]
+"81
+[p x DSWDTOSC  =  INTOSCREF ]
+"82
+[p x RTCOSC  =  T1OSCREF ]
+"83
+[p x DSBOREN  =  ON      ]
+"84
+[p x DSWDTEN  =  ON      ]
+"85
+[p x DSWDTPS  =  G2      ]
+"88
+[p x IOL1WAY  =  ON      ]
+"89
+[p x MSSP7B_EN  =  MSK7  ]
+"92
+[p x WPFP  =  PAGE_15    ]
+"93
+[p x WPEND  =  PAGE_WPFP ]
+"94
+[p x WPCFG  =  OFF       ]
+"97
+[p x WPDIS  =  OFF       ]
 [v $root$_main `(v ~T0 @X0 0 e ]
 "90 main.c
 [; ;main.c: 90: int main( void ){
@@ -774,19 +820,19 @@ Version 4.0 HI-TECH Software Intermediate Code
 [f ]
 "92
 [; ;main.c: 92:     while(1){
-[e :U 705 ]
+[e :U 710 ]
 {
 "94
 [; ;main.c: 94:     }
 }
-[e :U 704 ]
-[e $U 705  ]
-[e :U 706 ]
+[e :U 709 ]
+[e $U 710  ]
+[e :U 711 ]
 "96
 [; ;main.c: 96:     return 0;
 [e ) -> 0 `i ]
-[e $UE 703  ]
+[e $UE 708  ]
 "97
 [; ;main.c: 97: }
-[e :UE 703 ]
+[e :UE 708 ]
 }
