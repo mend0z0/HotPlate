@@ -1,6 +1,6 @@
 # TODO list
 
-A brief description of this todo list belongs to what project
+This todo list belongs to _HW_HotPlate_v1.0 project.
 
 ## Tasks
 
