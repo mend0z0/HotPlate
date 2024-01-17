@@ -57,9 +57,9 @@ __Assembly Automation__
 
 ### Hardware
 
-#### CAD View
+#### Hardware CAD View
 
-![_CADView](https://github.com/mend0z0/HotPlate/blob/main/Document/Media%20Content/Hardware%20Pictures/CAD%20View/_CADView_HotPlate_v1.0.svg)
+![_CADView_HW](https://github.com/mend0z0/HotPlate/blob/main/Document/Media%20Content/Hardware%20Pictures/CAD%20View/_CADView_HotPlate_v1.0.svg)
 
 #### 3D_View
 
@@ -72,6 +72,12 @@ __Assembly Automation__
 ![_ASMView_Top](https://github.com/mend0z0/HotPlate/blob/main/Document/Media%20Content/Hardware%20Pictures/Assembled%20Hardware/_ASMView_Top_HotPlate_v1.0.jpeg)
 
 ![_ASMView_Bottom](https://github.com/mend0z0/HotPlate/blob/main/Document/Media%20Content/Hardware%20Pictures/Assembled%20Hardware/_ASMView_Bottom_HotPlate_v1.0.jpeg)
+
+### Mechanical CAD View
+![_CADView_MECH](https://github.com/mend0z0)
+
+### Final Device
+![_HOTPLATE_](https://github.com/mend0z0)
 
 ### Application
 ![App Screenshot](https://github.com/mend0z0)
