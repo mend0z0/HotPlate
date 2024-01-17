@@ -904,7 +904,7 @@
     (effects (font (size 3 3)) (justify left bottom))
     (uuid 080365ca-8deb-4a3b-a629-94bed24600fd)
   )
-  (text "ADD KEY-040 MODULE\nADD A CONNECTOR FOR THERMOCOUPLE\nADD K THERMOCOUPLE MODULE\nADD BANANA PLUG FOR THERMO COUPLE\n\nADD A FAN \nADD A BANANA PLUG OR TERMINAL FOR FAN"
+  (text "ADD KEY-040 MODULE\nADD A CONNECTOR FOR THERMOCOUPLE\nADD K THERMOCOUPLE MODULE\nADD BANANA PLUG FOR THERMO COUPLE\n\nADD A FAN \nADD A BANANA PLUG OR TERMINAL FOR FAN\n\nADD RECEPTACLE 1xY\n\na bit of wire 20awg (about 1 meter x 6 color for led and ...)\na bit of wire 14awg (20cm x 3color) for the hot lines\n\n\nACRYLIC SHEET, 2MM, 8\"X10\""
     (at 228.6 125.73 0)
     (effects (font (size 3 3)) (justify left bottom))
     (uuid 8d9245ab-9224-4f1b-af05-318c11b6eadf)
