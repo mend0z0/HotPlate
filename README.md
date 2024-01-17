@@ -59,7 +59,7 @@ __Assembly Automation__
 
 #### Hardware CAD View
 
-![_CADView_HW](https://github.com/mend0z0/HotPlate/blob/main/Document/Media%20Content/Hardware%20Pictures/CAD%20View/_CADView_HotPlate_v1.0.svg)
+![_CADView_HW](https://github.com/mend0z0/HotPlate/blob/main/Document/Media%20Content/Hardware%20Pictures/CAD%20View%20Hardware/_CADView_HW_HotPlate_v1.0.svg)
 
 #### 3D_View
 
