@@ -6,7 +6,7 @@ This todo list belongs to _FW_Hotplate_v1.0 project
 
 - #### MUST to DO (List the works that proper working of project depends on these tasks) :
     - Drawing peripheral functions block diagram (USB, TIMER 0, TIMER 1, TIMER 2, TIMER 3, GPIO, SPI, WDT, EXTI, RTC)
-    - Drawing each module/device API/Init functions block diagram (LEDs, FAN, TRIAC, PCD8544, KEY-040, MAX31855, Ind LED)
+    - Drawing each module/device API/Init functions block diagram (LEDs, FAN, TRIAC, PCD8544, KY-040, MAX31855, Ind LED)
     - Writing C code for the drawn block diagram
     - Writing C code for the ISR
     - Writing C code for the modules/devices
