@@ -913,8 +913,8 @@
     (effects (font (size 3 3)) (justify left bottom))
     (uuid a92cdb68-6858-4d8d-81a3-dd011c5a35e4)
   )
-  (text "ADD A POWER PLUG WITH BUILT-IN FUSE\n2A/300A, SLOW BLOW"
-    (at 228.6 166.37 0)
+  (text "ADD A POWER PLUG WITH BUILT-IN FUSE\n2A/300A, SLOW BLOW\n\nadd a power outlet"
+    (at 228.6 170.18 0)
     (effects (font (size 5 5)) (justify left bottom))
     (uuid b9be0e7c-e1ab-4d99-bbb4-98b2488ebe37)
   )
