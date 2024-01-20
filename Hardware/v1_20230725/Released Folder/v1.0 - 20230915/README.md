@@ -1,4 +1,6 @@
-1. 3D File: The 3D file of the project would be in this folder.
+## This readme file explains the folder structure of each released file.
+
+1. 3D File: The 3D file of the project will be in this folder.
 
 	1. 3D View Picture: The 3D view of exported from KiCAD 3D view
 		1. _3DView_Top_Prj_vXY.png
