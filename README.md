@@ -19,9 +19,9 @@ __Assembly Automation__
 
 ## Features
 
-- 
-- 
-- 
+- Image processing
+- Manual assembly guide
+- Controlling over any kind of heaters
 
 
 ## Tech Stack
