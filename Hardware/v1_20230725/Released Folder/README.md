@@ -1,6 +1,6 @@
 # Revision History
 
-This revision history belongs to HotPlate project.
+HotPlate hardware project revision history
 
 ## Roadmap
 
