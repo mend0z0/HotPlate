@@ -1,6 +1,6 @@
 # TODO list
 
-This todo list belongs to _HW_HotPlate_v1 project.
+HotPlate hardware project todo list.
 
 ## Tasks
 
