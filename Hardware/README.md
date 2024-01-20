@@ -1,6 +1,6 @@
 # Version History
 
-HotPlate project version history
+HotPlate hardware project version history
 
 ## Roadmap
 
