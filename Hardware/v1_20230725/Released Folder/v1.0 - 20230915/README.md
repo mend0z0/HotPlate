@@ -1,4 +1,4 @@
-## This readme file explains the folder structure of this released file.
+## This readme file explains the folder structure of this released version.
 
 #### 1. 3D File: The 3D file of the project will be in this folder.
 
