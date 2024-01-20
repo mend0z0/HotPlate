@@ -1,6 +1,6 @@
 # Version History
 
-This version history belongs to HotPlate project
+HotPlate project version history
 
 ## Roadmap
 
