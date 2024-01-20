@@ -22,7 +22,7 @@
 		3. CAD View Hardware:
 			1._CADView_HW_Prj_vXY.svg
    
-   		4. CAD View Mechanical: 
+   		4. CAD View Mechanical:
      			1._CADView_MECH_Prj_vXY.svg
 	
 		5. Full Device
