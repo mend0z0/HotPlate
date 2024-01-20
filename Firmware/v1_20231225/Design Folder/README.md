@@ -1,6 +1,6 @@
 # TODO List
 
-This todo list belongs to _FW_Hotplate_v1.0 project
+HotPlate firmware project todo list.
 
 ## Tasks
 
