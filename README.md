@@ -74,7 +74,7 @@ __Assembly Automation__
 ![_ASMView_Bottom](https://github.com/mend0z0/HotPlate/blob/main/Document/Media%20Content/Hardware%20Pictures/Assembled%20Hardware/_ASMView_Bottom_HotPlate_v1.0.jpeg)
 
 ### Mechanical CAD View
-![_CADView_MECH](https://github.com/mend0z0)
+![_CADView_MECH](https://github.com/mend0z0/HotPlate/blob/main/Document/Media%20Content/Hardware%20Pictures/CAD%20View%20Mechanical/_CADView_MECH_HotPlate_v1.0.png)
 
 ### Final Device
 ![_HOTPLATE_](https://github.com/mend0z0)
