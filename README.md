@@ -43,7 +43,7 @@ __Assembly Automation__
 
 - **IDE:** Qt6
 - **Operating System:** Linux/Windows
-- **Device:** Laptop
+- **Device:** PC/Laptop
 
 ### Mechanical
 
